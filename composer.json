@@ -1,7 +1,7 @@
 {
   "name": "mlntn/lumen-artisan-serve",
   "type": "library",
-  "description": "artisan serve for Lumen projects",
+  "description": "artisan serve for Lumen projects. forked from mlntn/lumen-artisan-serve",
   "keywords": ["lumen","artisan"],
   "homepage": "http://github.com/mlntn/lumen-artisan-serve",
   "license": "MIT",
